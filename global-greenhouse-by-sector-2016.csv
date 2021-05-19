@@ -1,4 +1,4 @@
-﻿Sector,Sub-sector,Sub-sub sector,Share of global greenhouse gas emissions (%),
+﻿sector,sub_sector,sub_sub_sector,percent_share,
 Energy,,,73.2,
 Energy,Energy in industry,,24.2,
 Energy,Energy in industry,Iron & Steel,7.2,
